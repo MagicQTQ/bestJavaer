@@ -1,24 +1,6 @@
 # 成为一个更好的Java程序员
 这是一个成为更好的 `Java 程序员`的系列教程
 
->声明：这是完全手写的仓库，不严谨的地方请告知作者。
->
->此项目无法和 Dubbo 等开源框架相提并论，请读者不要盲目崇拜，此项目只是作者近来的读书、学习笔记总结。如果你 `star` 一下我会很高兴的。
->
->**本仓库仅供学习使用，商业用途请联系作者 (微信： lx252279279 )**
-
-![image-20210718221749417](https://tva1.sinaimg.cn/large/008i3skNgy1gslgqsilcpj317406adfw.jpg)
-
-![](https://img.shields.io/static/v1?label=bestjavaer&message=操作系统&color=blue)![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机基础&color=<COLOR>)![](https://img.shields.io/static/v1?label=bestjavaer&message=计算机网络&color=yellowgreen)
-
-![](https://img.shields.io/static/v1?label=bestjavaer&message=Java基础&color=orange)![](https://img.shields.io/static/v1?label=bestjavaer&message=设计模式&color=success)![](https://img.shields.io/static/v1?label=bestjavaer&message=JVM&color=important)![](https://img.shields.io/static/v1?label=bestjavaer&message=Java并发&color=9cf)
-
-![](https://img.shields.io/static/v1?label=bestjavaer&message=Spring&color=blueviolet)![](https://img.shields.io/static/v1?label=bestjavaer&message=SpringBoot&color=informational)![](https://img.shields.io/static/v1?label=bestjavaer&message=Springcloud&color=ff69b4)
-
-![](https://raw.githubusercontent.com/crisxuan/bestJavaer/master/mindmanage/bestjavaer.png)
-
-这是一个成为更好的程序员的系列教程内容涵盖
-
 * [Java基础面试题](https://github.com/crisxuan/bestJavaer/wiki/Java%E9%9D%A2%E8%AF%95%E9%A2%98)
 * [操作系统](https://github.com/crisxuan/bestJavaer#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%B3%BB%E5%88%97)
 * [计算机基础知识](https://github.com/crisxuan/bestJavaer#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97)
@@ -348,20 +330,6 @@ TODO
 
 * [2020 年每日一题](https://github.com/crisxuan/bestJavaer/blob/master/interview/2020-interview-everyday.md)
 
-## 内推计划
-
-我的读者群几乎隔一段时间就会发送招聘信息，这些招聘信息良莠不齐，而且大多太过分散，需要的时候看不到，不需要的时候又出现了。所以为了能够让更多人享受到内推的福利和好处，我这边汇总了一下自己读者的内推信息，如果有需要，可以联系对应的负责人。
-
-* [腾讯内推](https://github.com/crisxuan/bestJavaer/blob/master/interview-jd/tencent.md)
-* [新奥内推](https://github.com/crisxuan/bestJavaer/blob/master/interview-jd/xinao.md)
-* [美团内推](https://github.com/crisxuan/bestJavaer/blob/master/interview-jd/meituan.md)
-
-
-## 欢迎关注
-
-欢迎关注作者的微信公众号「程序员cxuan」，关注公众号回复「cxuan」给你分享作者硬肝的六本 PDF，回复「网络」可以获取笔者总结的网络 PDF。
-
-![](https://z3.ax1x.com/2020/12/11/rkf8A0.jpg)
 
 
 
